@@ -1,5 +1,11 @@
 # Cursada 2023
 
+## Antes de empezar
+
+Necesitamos saber quienes participan, por lo que les pedimos que completen el siguiente formulario.
+https://docs.google.com/forms/d/e/1FAIpQLScfVrbdtbKy6AmV3U6m7l3SPpsbFsd3FqR6dxwPBxlRZ3wVtg/viewform
+Para conectar su progreso en la cátedra con la actividad aquí.
+
 ## Programación 1
 
 En la sección de [Foro de discusiones](https://github.com/INGCOM-UNRN-P1/cursada-2023/discussions) publicaremos las actualizaciones con respecto a la cátedra.
