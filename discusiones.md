@@ -1,6 +1,9 @@
 ## ¿Por qué usar GitHub Discussions y no el Campus bimodal?
 
-- La interfaz es más liviana y responsive: se ve bien tanto desde una computadora como desde un celular.
+- La interfaz es más liviana: se ve bien tanto desde una computadora como desde un celular.
+- Nos permite facilmente reutilizar el contenido de un año a otro.
+- En algún ~momento~año tambien agregaremos un sitio web.
+- Permite aceptar contribuciones de los alumnos.
 - Suscripción por e-mail: llegan mails cuando hay nuevos mensajes que te interesen.
 - **Contestar via e-mail**: podés contestar los mails que llegan en vez de entrar a la página.
 - Formatea el texto usando Markdown: buen soporte para tipear código y en especial, rápido.
