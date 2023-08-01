@@ -25,7 +25,7 @@ Recuerden que para promocionar la materia es necesario entregar todos los trabaj
 
 Un Trabajo puede estar con ✔️ y tener comentarios igual. Siempre pueden preguntar en el hilo de la corrección en el Pull Request.
 
-## Material recomendado
+## Bibliografía suplementaria
 
 La guía de campo de [Markdown](recursos/markdown.pdf), la forma de darle formato a todo el texto en Github (y algunas otras herramientas también), no es complicado, pero requiere de escribir un poquito. Con un poco de practica se hace _bastante_ más fácil de usar. Hay muchas guías y herramientas en internet para simplificar su uso.
 
