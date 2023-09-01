@@ -8,8 +8,8 @@ Para conectar su progreso en la cátedra con la actividad aquí.
 
 ## Solución a los Trabajos Practivos
 
-30 de agosto 2023 - [Trabajo Practico 0](https://github.com/INGCOM-UNRN-P1/tp0-2023-martinvilu)
-1 de septiembre 2023 - [Trabajo Practico 1](https://github.com/INGCOM-UNRN-P1/tp1-2023-martinvilu)
+ * [Trabajo Practico 0](https://github.com/INGCOM-UNRN-P1/tp0-2023-martinvilu) - 30 de agosto 2023
+ * [Trabajo Practico 1](https://github.com/INGCOM-UNRN-P1/tp1-2023-martinvilu) - 1 de septiembre 2023
 
 ## Programación 1
 
