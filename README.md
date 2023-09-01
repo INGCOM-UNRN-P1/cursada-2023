@@ -6,6 +6,11 @@ Necesitamos saber quienes participan, por lo que les pedimos que completen el si
 
 Para conectar su progreso en la cátedra con la actividad aquí.
 
+## Solución a los Trabajos Practivos
+
+30 de agosto 2023 - [Trabajo Practico 0](https://github.com/INGCOM-UNRN-P1/tp0-2023-martinvilu)
+1 de septiembre 2023 - [Trabajo Practico 1](https://github.com/INGCOM-UNRN-P1/tp1-2023-martinvilu)
+
 ## Programación 1
 
 En la sección de [Foro de discusiones](https://github.com/INGCOM-UNRN-P1/cursada-2023/discussions) publicaremos las actualizaciones con respecto a la cátedra.
