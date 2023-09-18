@@ -12,7 +12,7 @@ Para conectar su progreso en la cátedra con la actividad aquí.
  * [Trabajo Practico 1](https://github.com/INGCOM-UNRN-P1/tp1-2023-martinvilu) - 1 de septiembre 2023
  * [Trabajo Practico 2](https://github.com/INGCOM-UNRN-P1/tp2-2023-martinvilu) - 3 de septiembre 2023
  * [Trabajo Practico 3](https://github.com/INGCOM-UNRN-P1/tp3-2023-martinvilu) - 13 de septiembre 2023
- * [Trabajo Practico 4](https://github.com/INGCOM-UNRN-P1/tp4-2023-martinvilu) - 15 de septiembre 2023
+ * [Trabajo Practico 4](https://github.com/INGCOM-UNRN-P1/tp4-2023-martinvilu) - 18 de septiembre 2023
 
 ## Programación 1
 
