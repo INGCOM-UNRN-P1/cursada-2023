@@ -45,6 +45,16 @@ Un pequeño manual sobre la terminal [Bash](recursos/101-BASH-r72.pdf), que es l
 
 Le vamos a dar uso intensivo a [git](recursos/cversiones-git-r76.pdf), por lo que tener a mano el apunte es muy importante.
 
+## Sugerencia de uso
+
+Para que puedan estar al tanto de lo que pasa en la materia, les recomendamos que le den "Watch, all Activity".
+![imagen](https://github.com/INGCOM-UNRN-P1/cursada-2023/assets/56625/6dc587ce-6454-454a-b068-8e1b8f57e6f8)
+
+## Cronograma del cuatrimestre
+
+![cronograma-2023](https://github.com/INGCOM-UNRN-P1/cursada-2023/assets/56625/0f0f3b02-5ac1-4599-ad3c-037d6e5ec4a7)
+
+
 ## ¿Problemas? ¿Sugerencias?
 
 Si tenés algún problema en el uso de este foro o alguna sugerencia para usarlo mejor, podés [crear un ticket en el issue tracker de la cursada](https://github.com/INGCOM-UNRN-P1/cursada-2023/issues), o bien contactarnos por los medios habituales.
